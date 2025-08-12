@@ -8,3 +8,4 @@ Notes and usage details for cyber-portfolio.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- clarify the setup steps
