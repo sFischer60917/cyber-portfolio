@@ -48,3 +48,4 @@ body { font-family: system-ui, sans-serif; margin: 2rem; }
 # avoid re-reading the config on every call
 # guard against empty input
 # clarify the control flow
+# drop an unused branch
