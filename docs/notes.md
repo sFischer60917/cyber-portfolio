@@ -40,3 +40,4 @@ Notes and usage details for cyber-portfolio.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
